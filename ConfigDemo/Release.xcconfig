@@ -1,0 +1,13 @@
+//
+//  Release.xcconfig
+//  ConfigDemo
+//
+//  Created by Randy Liu on 2017/6/29.
+//  Copyright © 2017年 com.shenzhenetop.httptest. All rights reserved.
+//
+
+#include "Pods/Target Support Files/Pods-ConfigDemo/Pods-ConfigDemo.release.xcconfig"
+#include "Common.xcconfig"
+
+VariableA = @"Release.xcconfig_VariableA"
+VariableB = @"Release.xcconfig_VariableB"

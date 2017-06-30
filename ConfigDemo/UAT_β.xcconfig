@@ -1,0 +1,13 @@
+//
+//  UAT_β.xcconfig
+//  ConfigDemo
+//
+//  Created by Randy Liu on 2017/6/29.
+//  Copyright © 2017年 com.shenzhenetop.httptest. All rights reserved.
+//
+
+#include "Pods/Target Support Files/Pods-ConfigDemo/Pods-ConfigDemo.uat_β.xcconfig"
+#include "Common.xcconfig"
+
+VariableA = @"UAT_β.xcconfig_VariableA"
+VariableB = @"UAT_β.xcconfig_VariableB"
